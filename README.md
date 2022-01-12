@@ -1,6 +1,12 @@
-## Tuq Inc. Junior Developer (Additional Application Information Question [1/3])
+## Tuq Tac Toe
 
-This Tic-Tac-Toe project is specially made for Junior Developer Co-op job application at Tuq Inc.
+Basic Features:
+- can be played by 2 players
+- color coded boxes for better visual
+- displays the winner if there is one otherwise declares a draw
+- can restart / start a new game anytime
+
+This Tic-Tac-Toe project is made for Junior Developer Co-op job application at Tuq Inc.
 
 # Tech Stack
 
