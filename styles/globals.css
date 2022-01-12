@@ -5,8 +5,8 @@
 }
 
 .square {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   font-size: 5rem;
   font-weight: bolder;
   color: white;
@@ -23,4 +23,19 @@
 
 p {
   font-size: 2rem;
+}
+
+.reset {
+  margin-top: 2rem;
+  font-size: 2rem;
+  background-color: pink;
+  border: none;
+  border-radius: 6px;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.intro {
+  font-size: medium;
+  width: 300px;
 }
