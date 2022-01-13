@@ -24,5 +24,5 @@ useState() and useEffect()
 
 To get it running locally on localhost:3000 use the commands below.
 
-npm install
-npm run dev
+- npm install
+- npm run dev
